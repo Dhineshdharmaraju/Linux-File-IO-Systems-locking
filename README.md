@@ -146,8 +146,8 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-![alt text](img1.png)
 
+![alt text](<img 1.png>)
 
 
 
